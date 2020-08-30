@@ -376,8 +376,8 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\everis\Desktop\curso-angular\crudpersona\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\everis\Desktop\curso-angular\crudpersona\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\everis\desktop\curso-angular\crudpersona\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\Users\everis\desktop\curso-angular\crudpersona\src\styles.css */"./src/styles.css");
 
 
 /***/ })
