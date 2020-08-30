@@ -1,8 +1,15 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { ListarComponent} from './Personsa/listar/listar.component'
+import { AddComponent } from "./Personsa/add/add.component";
+import { EditComponent } from "./Personsa/edit/edit.component";
 
 
-const routes: Routes = [];
+const routes: Routes = [
+  {path:'listar', component:ListarComponent},
+  {path:'add', component:AddComponent},
+  {path:'edit', component:EditComponent}
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
